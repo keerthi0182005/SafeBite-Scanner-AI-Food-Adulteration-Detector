@@ -1,0 +1,6 @@
+{
+  "name": "SafeBite Scanner – AI Food Adulteration Detector",
+  "description": "AI-powered Indian food adulteration detection, guided FSSAI DART home tests, community safety map, and multilingual awareness in English, Kannada, and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
